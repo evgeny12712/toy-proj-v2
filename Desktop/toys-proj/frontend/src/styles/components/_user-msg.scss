@@ -1,0 +1,15 @@
+.alert {
+    color: white;
+    padding: 10px;
+    font-size: 1.4em;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: grey;
+    &-success {
+        background-color: rgb(15, 122, 15);
+    }
+    &-danger {
+        background-color: rgb(122, 11, 11);
+    }
+}

@@ -1,0 +1,13 @@
+.details-labels {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;
+    line-height: 1em;
+    & ul>* {
+        padding: 20px;
+    }
+    &>*:not(:last-child) {
+        border-right: 1px solid black
+    }
+}

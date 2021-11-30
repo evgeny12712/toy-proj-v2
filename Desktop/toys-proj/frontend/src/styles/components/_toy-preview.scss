@@ -1,0 +1,34 @@
+.toy-preview {
+    list-style: none;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    & a {
+        text-decoration: none;
+        color: black;
+        background-color: whitesmoke;
+        padding: 2px 4px;
+        font-size: 0.8em
+    }
+    & a:hover {
+        background-color: rgb(236, 236, 236);
+    }
+    & button {
+        border: 0;
+        color: black;
+        background-color: whitesmoke;
+        padding: 2px 4px;
+        font-size: 0.8em
+    }
+    & button:hover {
+        background-color: rgb(236, 236, 236);
+    }
+    & * {
+        margin: 5px;
+    }
+    & img {
+        margin: 10px auto;
+        max-height: 250px;
+        max-width: 125px;
+    }
+}

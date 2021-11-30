@@ -1,0 +1,30 @@
+.add-toy {
+    margin-block-start: 30px;
+    & * {
+        margin: 10px;
+    }
+    & h3 {
+        color: rgb(54, 54, 54);
+    }
+    & form {
+        margin: auto;
+        margin-block-end: 30px;
+        width: fit-content;
+    }
+    & button {
+        background-color: lightgreen;
+        padding: 5px 10px;
+        border: 0;
+        margin-inline-start: 50px
+    }
+    & button:hover {
+        background-color: rgb(113, 236, 113);
+    }
+    & form {
+        border: 1px solid rgba(153, 205, 50, 0.534);
+    }
+}
+
+.mult-select {
+    margin-inline-end: 50px;
+}

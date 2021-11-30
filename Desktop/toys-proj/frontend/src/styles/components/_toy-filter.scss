@@ -1,0 +1,18 @@
+.toy-filter {
+    width: fit-content;
+    margin: auto;
+    margin-block-end: 40px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgba(0, 128, 0, 0.13);
+    border-top: 1px solid rgba(0, 128, 0, 0.13);
+    &>* {
+        margin: 5px;
+        margin-inline-start: 15px
+    }
+}
+
+.mult-select {
+    margin-inline-end: 50px;
+}

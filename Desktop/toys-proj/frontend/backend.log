@@ -1,0 +1,20 @@
+28/11/2021, 8:51:27 - INFO - Req!!!
+28/11/2021, 8:51:45 - DEBUG - auth.service - login with username: a
+28/11/2021, 8:51:46 - DEBUG - auth.service - login with username: a
+28/11/2021, 8:51:57 - ERROR - cannot find toys | {}
+28/11/2021, 8:51:57 - ERROR - Failed to get toys | {}
+28/11/2021, 8:51:57 - INFO - Req!!!
+28/11/2021, 8:52:15 - ERROR - while finding user a | {}
+28/11/2021, 8:52:15 - ERROR - Failed to Login ReferenceError: logger is not defined
+28/11/2021, 8:52:16 - ERROR - while finding user a | {}
+28/11/2021, 8:52:16 - ERROR - Failed to Login ReferenceError: logger is not defined
+28/11/2021, 8:52:23 - INFO - Req!!!
+28/11/2021, 8:52:27 - ERROR - cannot find toys | {}
+28/11/2021, 8:52:27 - ERROR - Failed to get toys | {}
+28/11/2021, 8:53:21 - INFO - Req!!!
+28/11/2021, 8:53:33 - DEBUG - auth.service - login with username: a
+28/11/2021, 8:53:33 - INFO - Req!!!
+28/11/2021, 8:53:33 - INFO - Req from: ab
+28/11/2021, 8:54:55 - INFO - Req!!!
+28/11/2021, 8:54:55 - INFO - Req from: ab
+28/11/2021, 8:56:09 - INFO - Req!!!

@@ -1,0 +1,15 @@
+.login-user {
+    margin: 50px;
+    & input {
+        margin: 10px;
+    }
+    & button {
+        background-color: lightgreen;
+        padding: 5px 10px;
+        border: 0;
+        margin-inline-start: 20px
+    }
+    & button:hover {
+        background-color: rgb(113, 236, 113);
+    }
+}

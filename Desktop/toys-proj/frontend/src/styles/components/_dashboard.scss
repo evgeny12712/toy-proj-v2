@@ -1,0 +1,11 @@
+.dashboard {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 20%
+}
+
+.bar {
+    width: 40%;
+    border: 1px solid black;
+}
